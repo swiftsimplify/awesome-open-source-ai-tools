@@ -1,5 +1,7 @@
 # Awesome Open Source AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[🇨🇳 中文版](README_CN.md) | [🇺🇸 English](README.md)
+
 > A curated list of 737+ open source AI tools and projects, categorized by application type and functionality.
 
 This list focuses on open source AI tools that developers can use, modify, and contribute to. Each tool has been carefully selected based on functionality, code quality, community activity, and real-world applicability. All projects listed here are actively maintained and have demonstrated community adoption.
